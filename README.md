@@ -29,6 +29,7 @@ A simple NLP-based chatbot using Python and `NLTK`. It responds to basic user in
 - `intents.json` - Contains input-output patterns
 - `requirements.txt` - Required dependencies
 - `README.md` - Documentation
+- `chatbot_preview.png` - Preview of working of ChatBot
 
 ## 🚀 How to Run
 

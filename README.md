@@ -14,7 +14,7 @@ MENTOR: Neela Santhosh Kumar
 
 ABOUT ME
 
-Hi, I'm Harsh Vardhan, a motivated and tech-enthusiastic BCA student, currently in my 2nd year at Guru Kashi University. I have a passion for web development and creating user-focused digital experiences. This project is part of my internship task at CodeTech, where I demonstrated my skills in building a AI ChatBot with NLP.
+Hi, I'm Harsh Vardhan, a motivated and tech-enthusiastic BCA student, currently in my 3rd year at Guru Kashi University. I have a passion for web development and creating user-focused digital experiences. This project is part of my internship task at CodeTech, where I demonstrated my skills in building a AI ChatBot with NLP.
 
 ## PROJECT OVERVIEW
 A simple NLP-based chatbot using Python and `NLTK`. It responds to basic user inputs like greetings, weather, name, and thanks.
